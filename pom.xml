@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.sf.plexian</groupId>
+  <groupId>net.webby.plexian</groupId>
   <artifactId>plexian</artifactId>
   <name>Plexian Suggest Storage</name>
   <version>1.0.1</version>
@@ -100,4 +100,13 @@
     <spring-version>2.5.6</spring-version>
   </properties>
 
+  <organization>
+  	<name>Webby</name>
+  	<url>http://webby.net</url>
+  </organization>
+  <scm>
+  	<url>https://github.com/webby-dev/plexian</url>
+  	<connection>https://github.com/webby-dev/plexian.git</connection>
+  	<tag>master</tag>
+  </scm>
 </project>
