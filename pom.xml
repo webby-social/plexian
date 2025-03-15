@@ -6,7 +6,7 @@
 	<groupId>net.webby.plexian</groupId>
 	<artifactId>plexian</artifactId>
 	<name>Plexian Suggest Storage</name>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<packaging>jar</packaging>
 
 	<build>
